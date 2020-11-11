@@ -11,6 +11,7 @@
   <img align="left" alt="Javed's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 
+![](https://visitor-badge.glitch.me/badge?page_id=danijak)
 
 <br />
 
