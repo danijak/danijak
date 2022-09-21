@@ -16,7 +16,7 @@
 <br />
 
 - 🔭 I’m currently working on Artificial Intelligence.
-- 🌱 I’m proficient in python with Django &FastAPI
+- 🌱 I’m proficient in python with Django & FastAPI
 - 💬 Ask me about **Data Science, ML or DSA**
 - 📫 How to reach me: [Mail](mailto:javedali9582@gmail.com), [LinkedIn](https://www.linkedin.com/in/javed-ali-8aaa45147/).
 - 😄 Pronouns: He/him
